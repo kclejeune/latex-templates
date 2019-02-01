@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1548996305 "/Users/kennanlejeune/latex-templates/notes/notes-template.tex" "/Users/kennanlejeune/latex-templates/notes/notes-template.pdf" "notes-template" 1548996305
-  "/Users/kennanlejeune/latex-templates/notes/notes-template.aux" 1548996305 684 5e35fe93d3f1c383b570da46c6606ab3 ""
-  "/Users/kennanlejeune/latex-templates/notes/notes-template.tex" 1548996305 678 b34f42fa659b02a63eae17a6ace8e1f2 ""
+["pdflatex"] 1548996731 "/Users/kennanlejeune/latex-templates/notes/notes-template.tex" "/Users/kennanlejeune/latex-templates/notes/notes-template.pdf" "notes-template" 1548996753
+  "/Users/kennanlejeune/latex-templates/notes/notes-template.aux" 1548996731 684 5e35fe93d3f1c383b570da46c6606ab3 ""
+  "/Users/kennanlejeune/latex-templates/notes/notes-template.tex" 1548996753 678 b34f42fa659b02a63eae17a6ace8e1f2 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1480098666 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/jknappen/ec/ecrm1200.tfm" 1480098696 3584 f80ddd985bd00e29e9a6047ebd9d4781 ""
@@ -150,13 +150,13 @@
   "/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1523934492 2717033 f61a5287d9c22a39a74f1979fe3f905c ""
   "/usr/local/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt" 1523934516 4220280 10cab8fbd7c5a7c52aba9917e190d018 ""
   "/usr/local/texlive/2018/texmf.cnf" 1523934483 577 0b39adfd7c93507ff20c9c14c2f1a33f ""
-  "notes-template.aux" 1548996305 684 5e35fe93d3f1c383b570da46c6606ab3 ""
-  "notes-template.out" 1548996305 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "notes-template.tex" 1548996305 678 b34f42fa659b02a63eae17a6ace8e1f2 ""
+  "notes-template.aux" 1548996731 684 5e35fe93d3f1c383b570da46c6606ab3 ""
+  "notes-template.out" 1548996731 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "notes-template.tex" 1548996753 678 b34f42fa659b02a63eae17a6ace8e1f2 ""
   (generated)
-  "/Users/kennanlejeune/latex-templates/notes/notes-template.log"
-  "/Users/kennanlejeune/latex-templates/notes/notes-template.pdf"
-  "notes-template.log"
-  "notes-template.pdf"
-  "notes-template.out"
   "notes-template.aux"
+  "notes-template.out"
+  "/Users/kennanlejeune/latex-templates/notes/notes-template.pdf"
+  "notes-template.pdf"
+  "notes-template.log"
+  "/Users/kennanlejeune/latex-templates/notes/notes-template.log"
