@@ -1,42 +1,36 @@
-\documentclass[12pt]{article}
+\documentclass[12pt, oneside]{article}
+% for additional margin flexibility
+% \usepackage[margin=1in]{geometry}
 \usepackage{fullpage}
-\usepackage{amsmath,amsthm,amssymb,amsfonts}
-\usepackage{cancel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{microtype}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{todonotes}
+\usepackage{graphicx}
+\graphicspath{{images/}}
+\usepackage{showlabels}
+\usepackage[english]{babel}
 \usepackage{blindtext}
-\newcommand{\N}{\mathbb{N}}
-\newcommand{\Z}{\mathbb{Z}}
-
-\newenvironment{problem}[2][Problem]{\begin{trivlist}
-\item[\hskip \labelsep {\bfseries #1}\hskip \labelsep {\bfseries #2.}]}{\end{trivlist}}
-
-\theoremstyle{plain}
-\newtheorem{thm}{Theorem}
-\newtheorem{lem}{Lemma}
-
+% \Blindtext to use.
+\RequirePackage[l2tabu, orthodox]{nag}
+\usepackage[all,warning]{onlyamsmath}
+\usepackage{hyperref}
 \theoremstyle{definition}
-\newtheorem{defn}{Definition}
-\newtheorem{exmp}{Example}
+\newtheorem*{theorem}{Theorem}
+\newtheorem*{lemma}{Lemma}
+\newtheorem*{definition}{Definition}
+\newtheorem*{example}{Example}
+\newtheorem*{solution}{Solution}
 
-\theoremstyle{remark}
-\newtheorem{rem}{Remark}
-\newtheorem{note}{Note}
-
-\begin{document}
-
-%\renewcommand{\qedsymbol}{\filledbox}
-%Good resources for looking up how to do stuff:
-%Binary operators: http://www.access2science.com/latex/Binary.html
-%General help: http://en.wikibooks.org/wiki/LaTeX/Mathematics
-%Or just google stuff
-% P1.10, P1.22, T1.1, T1.10
 \title{Title}
 \author{Kennan LeJeune}
 \date{\today}
-\maketitle
-    \begin{problem}{P1.10}
 
-    \end{problem}
-    \paragraph{Solution.}
-        \Blindtext
+\begin{document}
+    \maketitle
 
 \end{document}
